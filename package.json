@@ -1,0 +1,22 @@
+{
+  "name": "hehe-tea-test",
+  "version": "1.0.0",
+  "description": "hehe tea test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuruichao555/hehe-tea-test.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuruichao555/hehe-tea-test/issues"
+  },
+  "homepage": "https://github.com/liuruichao555/hehe-tea-test#readme"
+}
